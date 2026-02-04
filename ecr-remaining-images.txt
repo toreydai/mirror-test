@@ -1,9 +1,9 @@
 # ECR 剩余镜像清单
-# 更新时间: 2026-02-04 06:50:11
+# 更新时间: 2026-02-04 06:52:41
 # 删除条件: 90 天内未拉取
 # 总镜像数: 4
 
-multiarch-app@sha256:1dbb7
-multiarch-app@sha256:1dd4e
-multiarch-app@sha256:a7957
-multiarch-app@sha256:f7ad8
+multiarch-app:
+multiarch-app:
+multiarch-app:
+multiarch-app:
