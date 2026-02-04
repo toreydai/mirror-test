@@ -1,9 +1,6 @@
 # ECR 剩余镜像清单
-# 更新时间: 2026-02-04 06:52:41
+# 更新时间: 2026-02-04 06:57:07
 # 删除条件: 90 天内未拉取
-# 总镜像数: 4
+# 总镜像数: 0
 
-multiarch-app:
-multiarch-app:
-multiarch-app:
-multiarch-app:
+multiarch-app
